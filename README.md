@@ -1,4 +1,4 @@
-# Material do curso de introducao s HTML E CSS3
+# Material do curso de introducao HTML E CSS3
 Técnicas exercitadas:
 - Alinhamento
 - Formatação
