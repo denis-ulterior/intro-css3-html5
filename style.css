@@ -36,6 +36,7 @@ a{
     border: 3px solid rgb(226, 226, 226);
     margin-bottom: 15px;
     border-radius: 5px;
+    border-bottom-right-radius:30px ;
 }
 .post_content{
     margin: 0px;
